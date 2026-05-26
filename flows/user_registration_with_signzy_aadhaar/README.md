@@ -1,1 +1,0 @@
-This folder contains assets to a "User Registration with Signzy DigiLocker and Aadhaar Verification". This is described as an article published on [IBM Verify Docs](https://github.ibm.com/sec-ci/verify-readmeio/blob/VDEV-216172-setu-digilocker/docs/users/flow-designer/signzy-digilocker-user-reg-with-identity-proofing/index.md)
